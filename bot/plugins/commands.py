@@ -35,7 +35,7 @@ async def start(bot, update):
                         [
                             InlineKeyboardButton
                                 (
-                                    'Developers', url="https://t.me/CrazyBotsz"
+                                    '🏅Join Group 🏅', url="https://t.me/CV_Movies"
                                 )
                         ]
                     ]
